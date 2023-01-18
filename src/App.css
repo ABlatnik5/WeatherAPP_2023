@@ -1,0 +1,62 @@
+html {
+    font-family: system-ui, sans-serif;
+    font-size: 1.25rem;
+}
+
+body {
+    margin: 0;
+}
+
+svg {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+path {
+    fill: #2a354d;
+}
+
+.App {
+    font-family: sans-serif;
+    text-align: center;
+}
+
+.favorite-city {
+    text-decoration: none;
+    color: black;
+}
+
+.map-city {
+    text-decoration: none;
+    color: black;
+    font-size: 15px;
+    font-family: system-ui;
+}
+
+.map-city-temperature {
+    color: black;
+    font-size: 13px;
+    font-family: system-ui;
+}
+
+.favorite-table-td {
+    vertical-align: middle;
+}
+
+.current-weather-temperature {
+    font-size: 60px;
+}
+
+.current-weather-code {
+    font-size: 30px;
+}
+
+.map-area {
+    width: 100%;
+}
+
+.no-favorite {
+    display: "flex";
+    align-items: "center";
+    justify-content: "center";
+}

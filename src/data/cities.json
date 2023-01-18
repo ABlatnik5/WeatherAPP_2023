@@ -1,0 +1,98 @@
+[
+    {
+        "markerOffset": 0,
+        "name": "Ljubljana",
+        "coordinates": [14.505751, 46.056946],
+        "temperature": null
+    },
+    {
+        "markerOffset": 0,
+        "name": "Kranj",
+        "coordinates": [14.355542, 46.242834],
+        "temperature": null
+    },
+    {
+        "markerOffset": 0,
+        "name": "Ravne na Koroškem",
+        "coordinates": [14.96917, 46.54306],
+        "temperature": null
+    },
+    {
+        "markerOffset": 0,
+        "name": "Maribor",
+        "coordinates": [15.64667, 46.55472],
+        "temperature": null
+    },
+    {
+        "markerOffset": 0,
+        "name": "Murska Sobota",
+        "coordinates": [16.16639, 46.6625],
+        "temperature": null
+    },
+    {
+        "markerOffset": 0,
+        "name": "Celje",
+        "coordinates": [15.26044, 46.23092],
+        "temperature": null
+    },
+    {
+        "markerOffset": 0,
+        "name": "Nova Gorica",
+        "coordinates": [13.64837, 45.95604],
+        "temperature": null
+    },
+    {
+        "markerOffset": 0,
+        "name": "Koper",
+        "coordinates": [13.72944, 45.54694],
+        "temperature": null
+    },
+    {
+        "markerOffset": 0,
+        "name": "Postojna",
+        "coordinates": [14.21528, 45.77435],
+        "temperature": null
+    },
+    {
+        "markerOffset": 0,
+        "name": "Novo mesto",
+        "coordinates": [15.16886, 45.80397],
+        "temperature": null
+    },
+    {
+        "markerOffset": 0,
+        "name": "Krško",
+        "coordinates": [15.49167, 45.95915],
+        "temperature": null
+    },
+    {
+        "markerOffset": 0,
+        "name": "Trbovlje",
+        "coordinates": [15.05333, 46.155],
+        "temperature": null
+    },
+    {
+        "markerOffset": 0,
+        "name": "Bovec",
+        "coordinates": [13.551683, 46.337639],
+        "temperature": null
+    },
+    {
+        "markerOffset": 0,
+        "name": "Kočevje",
+        "coordinates": [14.86333, 45.64333],
+        "temperature": null
+    },
+    {
+        "markerOffset": 0,
+        "name": "Stična",
+        "coordinates": [14.8069522, 45.9561865],
+        "temperature": null
+    },
+    {
+        "markerOffset": 0,
+        "name": "Bled",
+        "coordinates": [14.095287, 46.361618],
+        "temperature": null
+    }
+]
