@@ -101,7 +101,7 @@ Navodila s slikovnim materialom in za preostale operacijske sisteme so dostopna 
 
 ## Prenos GitHub datoteke
 
-1. Obiščemo spletno mesto [GitHub datoteke](https://github.com/DanijelM/WeatherAPP )
+1. Obiščemo spletno mesto [GitHub datoteke](https://github.com/DanijelM/WeatherAPP](https://github.com/ABlatnik5/WeatherAPP_2023 )
 2. Prenesemo (Download ZIP) ali kloniramo datoteko
 3. V primeru, da prenesemo datoteko v ZIP formatu, razširimo ZIP datoteko na poljubno lokacijo
 4. Po želji lahko celotno datoteko WeatherAPP-main premaknemo v poljubno mapo
